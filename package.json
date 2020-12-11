@@ -1,0 +1,17 @@
+{
+  "name": "wechat-image-sequence-uploader",
+  "version": "1.0.0",
+  "description": "码语派",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "行歌",
+  "license": "ISC",
+  "dependencies": {
+    "form-data": "^3.0.0",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  },
+  "type": "module"
+}
